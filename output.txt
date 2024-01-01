@@ -1,0 +1,9 @@
+Yes, My Stack is Working properly.
+Exception from Peek! Stack Underflow
+Successfully Added Item: 10
+Successfully Added Item: 20
+Successfully Added Item: 50
+Pop Out: 50
+Successfully Added Item: 32
+Exception!! Stack Overflow
+Top of Stack 32
