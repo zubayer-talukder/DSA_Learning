@@ -1,4 +1,4 @@
-Format of README.md files-----
+Format of README.md files.
 
 Day No ----(Date) -----Topic------
 
